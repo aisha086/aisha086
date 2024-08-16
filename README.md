@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Frameworks, AI & ML**
 
-- 👨‍💻 All of my projects are available at [aisha-siddiqui.vercel.app](aisha-siddiqui.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aisha-siddiqui.vercel.app/)
 
 - 💬 Ask me about **Flutter, dart**
 
