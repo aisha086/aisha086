@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aisha-siddiqui.vercel.app/)
 
-- 💬 Ask me about **Flutter, dart**
-
 - 📫 How to reach me **aishasiddiqui633@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
